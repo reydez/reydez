@@ -25,6 +25,10 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" width="55"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/527px-PayPal_logo.svg.png" width="55"/>
  </p>
+ 
+ ### 🐱My Github stats:
+ ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=reydez&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reydez&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
