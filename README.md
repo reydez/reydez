@@ -1,6 +1,6 @@
 <div align="center">
- 
-![Header](https://i.imgur.com/02Sj7YQ.png)
+
+![Header](https://i.imgur.com/pJowxbJ.png)
  
 </div>
  
