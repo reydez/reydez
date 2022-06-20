@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning ReactJs, Redux, Sequelize, ExpressJs, HTML, CSS, Javascript, PostgreSQL
 - 📫 How to reach me: **icyreyeslod@gmail.com**
 
+### :abacus: Tech Stack
+
 <!--
 **reydez/reydez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
