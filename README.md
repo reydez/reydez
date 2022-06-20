@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rodrigo Reyes Hernández <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">I am a Fullstack Developer</h3>
 
 <!--
 **reydez/reydez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
