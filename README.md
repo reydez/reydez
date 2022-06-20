@@ -8,6 +8,10 @@
 - 📫 How to reach me: **icyreyeslod@gmail.com**
 
 ### :abacus: Tech Stack
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original-wordmark.svg" alt="javascript" width="55" height="55"/> 
+  </p>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
