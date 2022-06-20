@@ -9,7 +9,7 @@
 
 ### :abacus: Tech Stack
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original-wordmark.svg" alt="javascript" width="55" height="55"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </p>
 
 <h3 align="center">Connect with me:</h3>
