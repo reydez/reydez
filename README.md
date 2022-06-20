@@ -30,13 +30,16 @@
  </p>
  
  ### :file_folder: Fullstack Projects:
+ <p align="center">
  [![](https://img.shields.io/badge/-📝%20HenryFlow-000)](https://overflow-frontend.vercel.app/)
  [![](https://img.shields.io/badge/-📝%20RecipeApp-000)](https://pi-food-henry-beta.vercel.app/)
- 
+ </p>
  
  ### :chart_with_upwards_trend: My Github stats:
+ <p align="center">
  ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=reydez&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reydez&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 
 <h3 align="center">:iphone: Connect with me:</h3>
 <div align="center">
