@@ -31,7 +31,7 @@
  
  ### :file_folder: Fullstack Projects:
  <div align="center">
- <div align="center" style="border: 1px solid black;">
+ <div align="center" styles="border: 1px solid black">
   [<img src="https://i.imgur.com/ggaxN9V.jpg" width="250" height="200"/>](https://overflow-frontend.vercel.app/)
   </div>
  
