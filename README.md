@@ -1,7 +1,5 @@
 ![Header](https://raw.githubusercontent.com/reydez/reydez/main/header.png)
 
-<h1 align="center">Hi 👋, I'm Rodrigo Reyes Hernández</h1>
-<h3 align="center">I am a Fullstack Developer</h3>
 
 ### 🤵 About Me:
 - Hello, welcome to my profile, i'm a graduate with a bachelors degree in systems engineering :computer: and a Fullstack Developer, i have 2+ years of profesional experience on the field. While continuing on developing my knowledge on web development, I am looking for professional experiences that will allow me to evolve and expand my knowledge.
