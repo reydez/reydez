@@ -1,6 +1,6 @@
 <div align="center">
  
-![Header](https://raw.githubusercontent.com/reydez/reydez/main/header.png)
+![Header](https://i.imgur.com/02Sj7YQ.png)
  
 </div>
  
