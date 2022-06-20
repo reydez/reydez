@@ -36,7 +36,7 @@
  ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=reydez&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reydez&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">:iphone: Connect with me:</h3>
 <div align="center">
  
 [![image](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/rreyeshernandez/)
