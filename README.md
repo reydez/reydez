@@ -2,7 +2,7 @@
 <h3 align="center">I am a Fullstack Developer</h3>
 
 ### 🤵 About Me:
-- Hello, welcome to my profile i'm a Fullstack Developer and i have 2+ years of profesional experience on the field. While continuing on developing my knowledge on web development, I am looking for professional experiences that will allow me to evolve and expand my knowledge.
+- Hello, welcome to my profile, i'm a Fullstack Developer and i have 2+ years of profesional experience on the field. While continuing on developing my knowledge on web development, I am looking for professional experiences that will allow me to evolve and expand my knowledge.
 <!--
 **reydez/reydez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
