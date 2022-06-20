@@ -39,6 +39,8 @@
   [<img src="https://i.imgur.com/EXoqslQ.png" width="250" height="200"/>](https://pi-food-henry-beta.vercel.app/)  
   </div>
  
+ </div>
+ 
  ### :chart_with_upwards_trend: My Github stats:
  <div align="center">
  
@@ -47,7 +49,7 @@
  
  </div>
 
-<h3 align="center">:iphone: Connect with me:</h3>
+<h3>:iphone: Connect with me:</h3>
 <div align="center">
  
 [![image](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/rreyeshernandez/)
