@@ -9,7 +9,7 @@
 
 ### :abacus: Tech Stack
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
   </p>
 
 <h3 align="center">Connect with me:</h3>
