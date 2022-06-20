@@ -25,6 +25,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
  
+[![image](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/rreyeshernandez/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-reyes-hernandez/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_reyes_hernandez/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icyreyeslod@gmail.com)
