@@ -1,4 +1,9 @@
+<div align="center">
+ 
 ![Header](https://raw.githubusercontent.com/reydez/reydez/main/header.png)
+ 
+</div>
+ 
 <hr/>
 
 ### 🤵 About Me:
