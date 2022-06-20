@@ -33,7 +33,7 @@
  <div align="center">
  
  [<img src="https://i.imgur.com/ggaxN9V.jpg" width="200"/>](https://overflow-frontend.vercel.app/)
- [![](https://img.shields.io/badge/-📝%20RecipeApp-000)](https://pi-food-henry-beta.vercel.app/)
+ [<img src="https://i.imgur.com/EXoqslQ.png" width="200"/>](https://pi-food-henry-beta.vercel.app/)
  
  </div>
  
