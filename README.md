@@ -7,7 +7,7 @@
 <hr/>
 
 ### 🤵 About Me:
-- Hello, welcome to my profile, i'm a graduate with a bachelors degree in systems engineering :computer: and a Fullstack Developer, i have 2+ years of profesional experience on the field. While continuing on developing my knowledge on web development, I am looking for professional experiences that will allow me to evolve and expand my knowledge.
+- Hello, welcome to my profile, i'm a graduate with a bachelors degree in systems engineering :computer: and a Fullstack Developer, i have 1.5+ years of profesional experience on the field. While continuing on developing my knowledge on web development, I am looking for professional experiences that will allow me to evolve and expand my knowledge.
 - 🔭 I’m currently working on Henry bootcamp
 - 🌱 I’m currently learning ReactJs, Redux, Sequelize, ExpressJs, HTML, CSS, Javascript, PostgreSQL
 - 📫 How to reach me: **icyreyeslod@gmail.com**
